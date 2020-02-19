@@ -1,0 +1,13 @@
+= Kubernetes JSON Schema (amended) =
+
+This project is a fork of
+
+    https://github.com/instrumenta/kubernetes-json-schema
+
+which has been modified, initially, in the following ways:
+
+  - all directories other than v*-local/ (schemas in "local" format) are removed
+  - all top-level files other than the LICENSE are removed
+  - this README is added.
+
+The intent is to keep track of relevant change in the upstream.
